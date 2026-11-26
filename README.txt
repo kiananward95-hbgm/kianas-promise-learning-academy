@@ -27,3 +27,5 @@ Version 3.2.2: revised public homepage, embedded generated illustrative tutoring
 Version 3.2.3: centered larger masthead, account selection for public booking/enrollment, removed redundant referral enrollment button. Demo only.
 
 3.2.4: public homepage typography and scroll reveal; interactive sponsorship tiers and conditional supporter form. Demo only.
+
+3.2.6: Sponsor a Child opens the supporter form directly; Support Our Promise retains the overview.
