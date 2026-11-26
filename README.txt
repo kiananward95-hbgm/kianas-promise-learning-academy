@@ -21,3 +21,5 @@ Gold four-segment observational rating bars; baseline navy/current gold five-seg
 Version 3.2 preview: parent entry at index.html; owner demo at index.html#admin. No security. Test fictional records only. New menus, action center, extensions, quick-fill feedback, message replies and filters. Extension consent is recorded by owner, payments simulated. Existing storage key retained.
 
 Version 3.2.1: public homepage anchors, separate account choice, supporter form local text download. 5% illustrative only. No real data, payments or secure authentication. Existing logo retained.
+
+Version 3.2.2: revised public homepage, embedded generated illustrative tutoring photo, compact branded header. Demo only.
