@@ -19,3 +19,5 @@ VERSION 3.1.4.1 PATCH
 Gold four-segment observational rating bars; baseline navy/current gold five-segment ordinal letter-grade bars (F=1,D=2,C=3,B=4,A=5). Non-letter grades remain labeled and unscored. Same PDF engine for preview and download; existing storage unchanged. Upload all seven files to repository root, commit to main, reopen after Pages deploys. QA: verify all four rating levels, missing ratings, grade changes and non-letter grades, one-page normal reports, long-text overflow, preview/download and iPhone. Browser workflows and migration not tested. Demo only.
 
 Version 3.2 preview: parent entry at index.html; owner demo at index.html#admin. No security. Test fictional records only. New menus, action center, extensions, quick-fill feedback, message replies and filters. Extension consent is recorded by owner, payments simulated. Existing storage key retained.
+
+Version 3.2.1: public homepage anchors, separate account choice, supporter form local text download. 5% illustrative only. No real data, payments or secure authentication. Existing logo retained.
