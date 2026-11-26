@@ -23,3 +23,7 @@ Version 3.2 preview: parent entry at index.html; owner demo at index.html#admin.
 Version 3.2.1: public homepage anchors, separate account choice, supporter form local text download. 5% illustrative only. No real data, payments or secure authentication. Existing logo retained.
 
 Version 3.2.2: revised public homepage, embedded generated illustrative tutoring photo, compact branded header. Demo only.
+
+Version 3.2.3: centered larger masthead, account selection for public booking/enrollment, removed redundant referral enrollment button. Demo only.
+
+3.2.4: public homepage typography and scroll reveal; interactive sponsorship tiers and conditional supporter form. Demo only.
